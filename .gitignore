@@ -1,0 +1,13 @@
+#################################
+##  Hedgehog Development Kit  ###
+#################################
+
+Binaries/
+Build/
+DerivedDataCache/
+HDK BCK/
+Intermediate/
+Saved/
+/Plugins
+WindowsNoEditor/
+
