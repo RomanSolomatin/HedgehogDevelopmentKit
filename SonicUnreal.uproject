@@ -7,6 +7,13 @@
 		{
 			"Name": "Phya",
 			"Enabled": true
-		}		
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"PS4",
+		"WindowsNoEditor",
+		"XboxOne"
 	]
 }
