@@ -6,3 +6,10 @@ The [Hedgehog Development Kit (HDK)](http://hdk.angelxwind.net/) is an open-sour
 Supported platforms are OS X, Windows, and Linux.
 
 Visit our website for more information on the project: http://hdk.angelxwind.net/
+
+The Team
+========
+
+* Karen Tsai (angelXwind) - [[Website]](http://angelxwind.net/) [[Twitter]](http://twitter.com/angelXwind)
+* Ricardo Raionhardt (raionhardt) - [[Website]](http://raionhardt.cf/)
+* Tiller (git-tiller)
