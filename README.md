@@ -13,3 +13,4 @@ The Team
 * Karen Tsai (angelXwind) - [[Website]](http://angelxwind.net/) [[Twitter]](http://twitter.com/angelXwind)
 * Ricardo Raionhardt (raionhardt) - [[Website]](http://raionhardt.cf/)
 * Tiller (git-tiller)
+* Gustavo Oliveira (gulop)
