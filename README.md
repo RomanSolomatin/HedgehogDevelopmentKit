@@ -7,6 +7,8 @@ Supported platforms are OS X, Windows, and Linux.
 
 Visit our website for more information on the project: http://hdk.angelxwind.net/
 
+You can check the video preview on youtube - [[Youtube]] (https://youtu.be/3CRxv8SnPPM)
+
 The Team
 ========
 
