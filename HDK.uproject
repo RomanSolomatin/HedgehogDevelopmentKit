@@ -7,6 +7,26 @@
 		{
 			"Name": "Phya",
 			"Enabled": true
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
