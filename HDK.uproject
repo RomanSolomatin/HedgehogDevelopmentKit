@@ -1,34 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.7",
+	"EngineAssociation": "{3B4389AE-4E3F-9F7C-7B2C-56AF23D7BA6C}",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Phya",
-			"Enabled": true
-		},
-		{
-			"Name": "AndroidDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "AppleMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		}
-	],
+	"Plugins": [],
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
