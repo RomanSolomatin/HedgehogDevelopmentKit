@@ -3,7 +3,20 @@
 	"EngineAssociation": "{3B4389AE-4E3F-9F7C-7B2C-56AF23D7BA6C}",
 	"Category": "",
 	"Description": "",
-	"Plugins": [],
+	"Plugins": [
+		{
+			"Name": "GitSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
