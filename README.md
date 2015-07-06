@@ -7,7 +7,9 @@ Supported platforms are OS X, Windows, and Linux.
 
 Visit our website for more information on the project: http://hdk.angelxwind.net/
 
-You can check the video preview on youtube - [[Youtube]] (https://youtu.be/3CRxv8SnPPM)
+You can check the video preview on youtube of alpha and it been used on the Epic Kite Demo as an example - [[Youtube]] (https://youtu.be/3CRxv8SnPPM) - [[Youtube]] https://www.youtube.com/watch?v=vtcX5dxsSKI
+
+Anyone who have talent or skills who wants to contribute or participate on the team is welcome, just talk to one of us using the members links below and getting in contact.
 
 The Team
 ========
@@ -16,3 +18,4 @@ The Team
 * Ricardo Raionhardt (raionhardt) - [[Website]](http://raionhardt.cf/)
 * Tiller (git-tiller)
 * Gustavo Oliveira (gulop)
+* Andrew Kaibni (DrewMathew)
